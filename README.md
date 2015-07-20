@@ -94,4 +94,4 @@ Here is the content:
     crashlytics-build.properties
     com_crashlytics_export_strings.xml
 
-# Created by https://www.gitignore.io
+### Created with [Gitignore.io](https://www.gitignore.io)
